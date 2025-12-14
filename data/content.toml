@@ -42,7 +42,7 @@ lesson = 6
 
 [[classes]]
 title = "SSA"
-leader = "Nate Young"
+leader = "Nate Young, Amanda Wang, Jiale Lao, Ning Wang, Ziyang Chen"
 readings = ["ssa-construct"]
 
 
@@ -53,7 +53,7 @@ lesson = 7
 
 [[classes]]
 title = "Automatic Verification"
-leader = "Nikil Shyamsunder"
+leader = "Nikil Shyamsunder, Shihan Fang, Joseph Maheshe, Ruolin Ye, I-Ting Tsai"
 readings = ["alive"]
 
 
@@ -70,7 +70,7 @@ lesson = 10
 
 [[classes]]
 title = "Alias-Based Optimization"
-leader = "TBD"
+leader = "Cynthia Shao, Jonathan Brown, Pedro Pontes García"
 readings = ["tbaa"]
 
 
@@ -92,12 +92,12 @@ lesson = 12
 
 [[classes]]
 title = "Dynamic Languages"
-leader = "TBD"
+leader = "Jake Hyun, Tobi Weinberg and Adnan Armouti (Cornell Tech)"
 readings = ["self"]
 
 [[classes]]
 title = "Tracing"
-leader = "Jeremy Ku-Benjet, Ann Zhang"
+leader = "Jeremy Ku-Benjet, Ann Zhang, Sunwoo Kim"
 readings = ["tracemonkey"]
 
 
@@ -105,7 +105,7 @@ readings = ["tracemonkey"]
 
 [[classes]]
 title = "Superoptimization"
-leader = "Thomas McFarland"
+leader = "Thomas McFarland, Vesal Bakhtazad, Nipat Chenthanakij, Arisina Banerjee"
 readings = ["denali"]
 
 [[classes]]
